@@ -71,6 +71,6 @@ This project was developed during my internship with CodeAlpha via Skilled Score
 
 🙋‍♂️ About Me
 I'm Adil Shah, an aspiring AI/ML developer from Pakistan 🇵🇰.
+I'm passionate about solving real-world problems using data and intelligent systems.
 Linkedin Profile: www.linkedin.com/in/syed-adil-shah-8a1537365
 GitHub Profile: https://github.com/adil162
-I'm passionate about solving real-world problems using data and intelligent systems.
