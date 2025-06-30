@@ -67,7 +67,7 @@ Create a web interface using Flask
 Add explainability with SHAP or LIME
 
 🏅 Internship Acknowledgement
-This project was developed during my internship with CodeAlpha via Skilled Score.
+This project was developed during my internship with CodeAlpha.
 
 🙋‍♂️ About Me
 I'm Adil Shah, an aspiring AI/ML developer from Pakistan 🇵🇰.
